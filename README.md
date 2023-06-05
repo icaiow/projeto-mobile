@@ -20,7 +20,7 @@ Este é um aplicativo React Native que implementa uma lista de produtos de uma p
 ## Configuração
 
 1. Clone o repositório:
-
+https://github.com/icaiow/projeto-mobile.git
 
 
 2. Navegue até o diretório do projeto:
